@@ -1,0 +1,10 @@
+.clickable{
+    cursor: pointer;
+}
+.imgFilm{
+    width: 150px;
+    height: 200px;
+}
+.ticket{
+    margin: 5px;
+}
